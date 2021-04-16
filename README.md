@@ -2,6 +2,8 @@
 
 Huffman Compression App
 
+Created as part of my coursework in the Data Structures and Algorithms module as a First year Maths and Computer Science Student at Exeter University.
+
 To use program go to src file place the file you want compressed into the file and type into the terminal:
 
 Javac HuffEncodingApp.java
